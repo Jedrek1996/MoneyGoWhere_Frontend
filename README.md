@@ -1,3 +1,4 @@
+## Backend Repo: https://github.com/Jedrek1996/MoneyGoWhere_Backend
 ## ⚠️⚠️ To run ⚠️⚠️
 
 Open the project directory in the folder directory cmd prompt, you can run the command below to start:
